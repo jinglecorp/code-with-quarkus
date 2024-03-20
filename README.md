@@ -49,15 +49,11 @@ If you want to learn more about building native executables, please consult http
 
 ## Related Guides
 
-- AWS Lambda ([guide](https://quarkus.io/guides/aws-lambda)): Write AWS Lambda functions
 
 ## Provided Code
 
-### Amazon Lambda Integration example
+### RESTEasy JAX-RS
 
-This example contains a Quarkus Greeting Lambda ready for Amazon.
+Easily start your RESTful Web Services
 
-[Related guide section...](https://quarkus.io/guides/amazon-lambda)
-
-> :warning: **INCOMPATIBLE WITH DEV MODE**: Amazon Lambda Binding is not compatible with dev mode yet!
-
+[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
